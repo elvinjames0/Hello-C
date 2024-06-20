@@ -1,0 +1,13 @@
+C KHÔNG PHẢI NGÔN NGỮ LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG
+
+-INCLUDE LÀ GÌ?
+include là lệnh tiền xử lý báo cho trình biên dịch nội dung của tập tin
+
+-TẠI SAO PHẢI RETURN 0
+return 0 vì nó trả về trạng thái thoát của chương trình, trả về 0 nếu nó true và trả về 1 nếu false
+
+-BIẾN (VARIABLES)
+Không gian được phân bổ trong bộ nhớ để lưu trữ một giá trị.
+Chúng ta tham chiếu đến tên biến để truy cập giá trị được lưu trữ.
+Biến đó bây giờ hoạt động như thể đó là giá trị mà nó chứa.
+NHƯNG chúng ta cần khai báo loại dữ liệu chúng ta đang lưu trữ.
